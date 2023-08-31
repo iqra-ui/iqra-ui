@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Iqra Noor 👋
 
-- 🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs, Material UI, Redux, RESTAPI, NodeJs, Express,TypeScript, Mongodb and MYSQL 
+- 🔭 I’m currently working on HTML5, CSS3, JavaScript, ReactJs, Bootstrap Tailwind CSS, Material UI, RESTAPI, NodeJs, ExpressJs, Mongodb  
 - 🌱 I’m currently learning NodeJs and Express
-- 👯 I’m looking to collaborate on Youtube and Full Stack Developer
+- 👯 I’m looking to collaborate on Full Stack Developer
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... MERN
+- 💬 Ask me about MERN.
 - 😄 Pronouns: ... YES
 - ⚡ Fun fact: ... I am Funny and I love to Code
 
